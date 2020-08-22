@@ -10,8 +10,7 @@ const IndexPage = () => (
     <SEO title="Home" />
       <title>Animal Crossing Villagers by Popularity</title>
 
-    <iframe src="https://public.tableau.com/views/ACNHVillagersbyPopularitywithfilters/AnimalCrossingVillagersbyPopularity?"
-"https://public.tableau.com/views/VillagerInfoandoftotalcount/Sheet1?:showVizHome=no&:embed=true"
+    <iframe src="https://public.tableau.com/views/VillagerInfoandoftotalcount/Sheet1?:showVizHome=no&:embed=true"
     
  width="100%" height="800" title="Animal Crossing Villagers by Popularity"></iframe>
   <div>

@@ -9,7 +9,12 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
       <title>Animal Crossing Villagers by Popularity</title>
-
+      <div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4">Welcome to acnh.pro! </h1>
+    <p class="lead">This website is designed to show how frequent all of the villagers are on people's islands. All data is crowd generated and you can help by filling out the poll and by telling your friends.</p>
+  </div>
+</div>
 
 Hover over a villager to see more info about them!
 <iframe src="https://public.tableau.com/views/VillagerInfoandoftotalcount/Sheet1?:showVizHome=no&:embed=true"

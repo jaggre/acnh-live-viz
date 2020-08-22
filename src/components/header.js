@@ -9,7 +9,16 @@ const Header = ({ siteTitle }) => (
       marginBottom: `1.45rem`,
     }}
   >
-    <div
+    <div class="ui secondary  menu">
+  <a class="active item">
+    Home
+  </a>
+  <a href="https://forms.gle/S8Lj9zTLpNjLY7B7A">
+    Submit Your Villagers
+  </a>
+</div>
+
+<div
       style={{
         margin: `0 auto`,
         maxWidth: 960,
@@ -28,6 +37,7 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h1>
     </div>
+    
   </header>
 )
 

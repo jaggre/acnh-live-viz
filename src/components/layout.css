@@ -626,3 +626,7 @@ pre tt:after {
 iframe {
   border-style: none;
 }
+
+div button {
+  align-items: center;
+}

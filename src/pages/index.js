@@ -12,8 +12,9 @@ const IndexPage = () => (
 
     <iframe src="https://public.tableau.com/views/ACNHVillagersbyPopularitywithfilters/AnimalCrossingVillagersbyPopularity?:showVizHome=no&:embed=true"
  width="100%" height="800" title="Animal Crossing Villagers by Popularity"></iframe>
-
- <button href="https://forms.gle/S8Lj9zTLpNjLY7B7A"></button>
+  <div>
+ <a href="https://forms.gle/S8Lj9zTLpNjLY7B7A"><button class="ui blue button">Click Here to Contribute</button></a>
+ </div>
     
   </Layout>
 )

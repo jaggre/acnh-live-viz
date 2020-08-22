@@ -22,7 +22,7 @@ const Header = ({ siteTitle }) => (
     </ul>
   </div>
 </nav>
-</>
+
   <header
     style={{
       background: 'rgb(124, 201, 195)',
@@ -57,6 +57,7 @@ const Header = ({ siteTitle }) => (
     </div>
     
   </header>
+  </>
 )
 
 Header.propTypes = {

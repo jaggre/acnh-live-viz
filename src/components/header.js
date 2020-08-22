@@ -42,15 +42,15 @@ const Header = ({ siteTitle }) => (
       }}
     >
       <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
+        <link
+          src="/"
           style={{
             color: `white`,
             textDecoration: `none`,
           }}
         >
           {siteTitle}
-        </Link>
+        </link>
       </h1>
     </div>
     

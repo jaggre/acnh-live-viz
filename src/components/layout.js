@@ -29,7 +29,7 @@ const Layout = ({ children }) => {
 
   return (
     <>
-    
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
       <Header siteTitle={data.site.siteMetadata.title} />
       <div
         style={{

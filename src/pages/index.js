@@ -20,7 +20,7 @@ const IndexPage = () => (
       <div class="jumbotron jumbotron-fluid">
   <div class="container">
     <h1 class="display-4">Welcome to acnh.pro! </h1>
-    <p class="lead">This website is designed to show how frequent all of the villagers are on people's islands.<br> All data is community-generated and you can help by filling out the poll and by telling your friends.</p>
+    <p class="lead">This website is designed to show how frequent all of the villagers are on people's islands.</p><p class="lead"> All data is community-generated and you can help by filling out the poll and by telling your friends.</p>
   </div>
 </div>
 

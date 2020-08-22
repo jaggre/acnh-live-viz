@@ -16,27 +16,23 @@ const Header = ({ siteTitle }) => (
   crossorigin="anonymous"
 />
 
-<script src="https://unpkg.com/react/umd/react.production.min.js" crossorigin></script>
 
-<script
-  src="https://unpkg.com/react-dom/umd/react-dom.production.min.js"
-  crossorigin></script>
-
-<script
-  src="https://unpkg.com/react-bootstrap@next/dist/react-bootstrap.min.js"
-  crossorigin></script>
-
-<script>var Alert = ReactBootstrap.Alert;</script>
-
-
-<Navbar bg='rgb(124, 201, 195)' variant="dark">
-    <Navbar.Brand href="#home"><img src="https://i.imgur.com/eGqetql.png"></img></Navbar.Brand>
-    <Nav className="mr-auto">
-      <Nav.Link href="#">Home</Nav.Link>
-      <Nav.Link href="https://forms.gle/S8Lj9zTLpNjLY7B7A">Submit Your Villagers</Nav.Link>
-    </Nav>
-  </Navbar>
-
+<nav class="navbar  navbar-dark bg-acnh">
+  <a class="navbar-brand" href="#"><img src="https://i.imgur.com/eGqetql.png"></img></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://forms.gle/S8Lj9zTLpNjLY7B7A">Submit Your Villagers</a>
+      </li>
+    </ul>
+  </div>
+</nav>
   
 
 <div

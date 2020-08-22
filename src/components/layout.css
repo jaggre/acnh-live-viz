@@ -630,7 +630,11 @@ iframe {
 div button {
   align-items: center;
 }
-navbar img {
+.nav img {
   width: 30px;
   height: 30px;
+}
+
+.bg-acnh {
+  background: 'rgb(124, 201, 195)'
 }

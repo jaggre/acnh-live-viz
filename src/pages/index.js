@@ -12,7 +12,7 @@ const IndexPage = () => (
 
 <span>
 <h2 class="ui header">
-  <img src="src/images/nookleaf.png"></img>
+  <img src="https://i.imgur.com/eGqetql.png">
   <div class="content">
   Welcome to acnh.pro! 
     <div class="sub header">This website is designed to show how frequent all of the villagers are on people's islands. All data is crowd generated and you can help by filling out the poll and by telling your friends.</div>

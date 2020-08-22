@@ -11,11 +11,12 @@ const Header = ({ siteTitle }) => (
   >
     <div class="ui secondary  menu">
   <a class="active item">
-    Home
+    {siteTitle}
   </a>
-  <a href="https://forms.gle/S8Lj9zTLpNjLY7B7A">
+  <a class="item" href="https://forms.gle/S8Lj9zTLpNjLY7B7A">
     Submit Your Villagers
   </a>
+
 </div>
 
 <div
@@ -33,7 +34,7 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         >
-          {siteTitle}
+          
         </Link>
       </h1>
     </div>

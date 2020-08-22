@@ -9,15 +9,24 @@ const Header = ({ siteTitle }) => (
       marginBottom: `1.45rem`,
     }}
   >
-    <div class="ui secondary  menu">
-  <a class="active item">
-    Home
-  </a>
-  <a class="item" href="https://forms.gle/S8Lj9zTLpNjLY7B7A">
-    Submit Your Villagers
-  </a>
 
-</div>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#"><img src="src/images/nookleaf.png"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://forms.gle/S8Lj9zTLpNjLY7B7A">Submit Your Villagers</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+  
 
 <div
       style={{

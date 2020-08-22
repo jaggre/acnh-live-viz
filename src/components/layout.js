@@ -35,7 +35,7 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built by
+          © {new Date().getFullYear()},  Built by Dash &
           {` `}
           <a href="https://www.jaggre.com">Jake</a>
         </footer>

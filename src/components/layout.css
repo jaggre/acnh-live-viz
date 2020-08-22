@@ -630,3 +630,7 @@ iframe {
 div button {
   align-items: center;
 }
+
+nav a {
+  color: #fff;
+}

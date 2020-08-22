@@ -26,7 +26,9 @@ const IndexPage = () => (
 </div>
 
 Hover over a villager to see more info about them!
-<iframe src="https://public.tableau.com/views/VillagerInfoandoftotalcount/Sheet1?:showVizHome=no&:embed=true"
+<iframe src="https://public.tableau.com/views/22820-1247/Sheet1?:showVizHome=no&:embed=true"
+
+
     
  width="100%" height="800" title="Animal Crossing Villagers by Popularity"></iframe>
   <div>

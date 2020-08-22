@@ -8,15 +8,6 @@
 
 const path = require('path');
 
-exports.onCreateWebpackConfig = ({ actions }) => {
-  actions.setWebpackConfig({
-    resolve: {
-      alias: {
-        '../../theme.config$': path.join(__dirname, 'src/semantic/theme.config'),
-      },
-    },
-  });
-};
 
 const webpack = require('webpack')
 
@@ -48,4 +39,11 @@ exports.onCreateWebpackConfig = ({ stage, rules, loaders, plugins, actions }) =>
       })
     ]
   })
+  actions.setWebpackConfig({
+    resolve: {
+      alias: {
+        '../../theme.config$': path.join(__dirname, 'src/semantic/theme.config'),
+      },
+    },
+  });
 }

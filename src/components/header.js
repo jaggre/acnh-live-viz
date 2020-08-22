@@ -17,7 +17,7 @@ const Header = ({ siteTitle }) => (
 />
 
 
-<Navbar bg="dark" variant="dark">
+<Navbar bg='rgb(124, 201, 195)' variant="dark">
     <Navbar.Brand href="#home"><img src="https://i.imgur.com/eGqetql.png"></img></Navbar.Brand>
     <Nav className="mr-auto">
       <Nav.Link href="#">Home</Nav.Link>

@@ -630,7 +630,7 @@ iframe {
 div button {
   align-items: center;
 }
-
-nav a {
-  color: #fff;
+navbar img {
+  width: 30px;
+  height: 30px;
 }

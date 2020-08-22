@@ -18,6 +18,7 @@ const Header = ({ siteTitle }) => (
   integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
   crossorigin="anonymous"
 />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
 
 
 <nav class="navbar  navbar-dark bg-acnh">
@@ -36,6 +37,8 @@ const Header = ({ siteTitle }) => (
     </ul>
   </div>
 </nav>
+
+
   
 
 <div

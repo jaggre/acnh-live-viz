@@ -12,7 +12,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import "semantic-ui-less/semantic.less";
 
 import Header from "./header"
-import "./layout.css"
+
 
 
 

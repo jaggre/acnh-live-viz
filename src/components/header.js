@@ -2,7 +2,7 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
-import siteIcon from "../src/images/hazel-icon.png"
+
 
 const Header = ({ siteTitle }) => (
   <header
@@ -16,7 +16,7 @@ const Header = ({ siteTitle }) => (
  
 
   <nav class="navbar  navbar-dark bg-acnh">
-<a class="navbar-brand" href="#"><img src={siteIcon}></img></a>
+<a class="navbar-brand" href="#"><img src={`hazel-icon.png`}></img></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>

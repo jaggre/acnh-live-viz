@@ -22,20 +22,9 @@ const IndexPage = () => (
       <div class="jumbotron jumbotron-fluid">
   <div class="container">
     <h1 class="display-4">Welcome to acnh.pro! </h1>
-    <p class="lead">This website is designed to show how frequent all of the villagers are on people's islands.</p><p class="lead"> All data is community-generated and you can help by filling out the poll and by telling your friends.</p>
+    <p class="lead">This project is designed to make the information found by Animal Crossing Dataminers more accessible.</p><p class="lead"> All data on popularity is community-generated and you can help by filling out the poll and by telling your friends.</p>
   </div>
 </div>
-
-Hover over a villager to see more info about them!
-<iframe src="https://public.tableau.com/views/22820-1247/Sheet1?:showVizHome=no&:embed=true"
-
-
-
-    
- width="100%" height="800" title="Animal Crossing Villagers by Popularity"></iframe>
-  <div>
- <a href="https://forms.gle/S8Lj9zTLpNjLY7B7A"><button class="ui blue button">Click Here to Contribute</button></a>
- </div>
     
   </Layout>
 )

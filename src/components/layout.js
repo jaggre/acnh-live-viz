@@ -13,7 +13,7 @@ import "semantic-ui-less/semantic.less";
 
 import Header from "./header"
 
-
+import "./layout.css";
 
 
 const Layout = ({ children }) => {

@@ -2,6 +2,9 @@ html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  background-image: url(https://i.imgur.com/jW4II7W.png);
+  background-repeat: repeat;
+  background-color: #ffecb7;
 }
 body {
   margin: 0;

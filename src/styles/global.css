@@ -8,3 +8,7 @@ html body {
 iframe {
     border-style: none;
 }
+
+navbar-brand img {
+    width: 4em;
+}

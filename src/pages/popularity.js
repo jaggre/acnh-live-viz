@@ -6,6 +6,8 @@ import Image from "../components/image"
 import SEO from "../components/seo"
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+import 'styles/global.css'
+
 const PopularityPage = () => (
   <Layout>
     <SEO title="Home" />

@@ -21,7 +21,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `gatsby-starter-default`,
-        short_name: `starter`,
+        short_name: `anch-pro`,
         start_url: `/`,
         background_color: `#ffecb7`,
         theme_color: 'rgb(124, 201, 195)',

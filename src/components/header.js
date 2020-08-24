@@ -16,7 +16,7 @@ const Header = ({ siteTitle }) => (
  
 
   <nav class="navbar  navbar-dark bg-acnh">
-<a class="navbar-brand" href="/"><img src='https://i.imgur.com/yQKnH9C.png'></img></a>
+<a class="navbar-brand" href="/"><img src='https://i.imgur.com/yQKnH9C.png' alt="acnh pro | hazel!"></img></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -26,13 +26,13 @@ const Header = ({ siteTitle }) => (
         <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/furniturehha">Furniture by HHA Points</a>
+        <a class="nav-link" href="/furniturehha" >Furniture by HHA Points</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/popularity">Villagers by Popularity</a>
+        <a class="nav-link" href="/popularity" >Villagers by Popularity</a>
       </li>
       <li class="nav-item">
-      <a class="nav-link" href="https://forms.gle/S8Lj9zTLpNjLY7B7A">Submit Your Villagers</a>
+      <a class="nav-link" href="https://forms.gle/S8Lj9zTLpNjLY7B7A" >Submit Your Villagers</a>
       </li>
     </ul>
   </div>

@@ -31,7 +31,7 @@ const FurnitureHHAPage = () => (
 
 
 Hover over a furniture item to see more info about it!
-<iframe src="https://public.tableau.com/profile/jaggre#!/vizhome/AnimalCrossingFurniturebyHHAPoints/AnimalCrossingFurnitureItemsbyHHAPoints?:showVizHome=no&:embed=true"
+<iframe src="https://public.tableau.com/views/AnimalCrossingFurniturebyHHAPoints/AnimalCrossingFurnitureItemsbyHHAPoints?:showVizHome=no&:embed=true"
 
 
 

@@ -22,7 +22,10 @@ const Header = ({ siteTitle }) => (
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/popularity">Villagers by Popularity</a>
       </li>
       <li class="nav-item">
       <a class="nav-link" href="https://forms.gle/S8Lj9zTLpNjLY7B7A">Submit Your Villagers</a>

@@ -29,8 +29,8 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <link rel="stylesheet" href="styles/global.css"></link>
       <Header siteTitle={data.site.siteMetadata.title} />
+      <link rel="stylesheet" href="styles/global.css"></link>
       <div
         style={{
           margin: `0 auto`,

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Animal Crossing Villagers by Popularity`,
+    title: `acnh.pro`,
     description: `A reactive guide made by two idiots`,
     author: `Dash Foster, Jake Rusnak`,
   },

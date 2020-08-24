@@ -26,10 +26,10 @@ const Header = ({ siteTitle }) => (
         <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/popularity">Villagers by Popularity</a>
+        <a class="nav-link" href="/furniturehha">Furniture by HHA Points</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/furniturehha">Furniture by HHA Points</a>
+        <a class="nav-link" href="/popularity">Villagers by Popularity</a>
       </li>
       <li class="nav-item">
       <a class="nav-link" href="https://forms.gle/S8Lj9zTLpNjLY7B7A">Submit Your Villagers</a>

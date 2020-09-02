@@ -639,6 +639,10 @@ nav img {
   background: 'rgb(124, 201, 195)'
 }
 
-.jumbotron-acnh {
+.lost-img {
+  width: 60%;
+}
+
+main div .jumbotron {
   background-color: #ffffff;
 }

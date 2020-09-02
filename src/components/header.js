@@ -34,6 +34,9 @@ const Header = ({ siteTitle }) => (
       <li class="nav-item">
       <a class="nav-link" href="https://forms.gle/S8Lj9zTLpNjLY7B7A" >Submit Your Villagers</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/about" >About</a>
+      </li>
     </ul>
   </div>
 </nav>

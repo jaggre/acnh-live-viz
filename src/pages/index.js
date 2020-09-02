@@ -21,6 +21,7 @@ const IndexPage = () => (
   <div class="container">
     <h1 class="display-4">Welcome to acnh.pro! </h1>
     <p class="lead">This project is designed to make the information found by Animal Crossing Dataminers more accessible.</p><p class="lead"> All data on popularity is community-generated and you can help by filling out the poll and by telling your friends.</p>
+    <p class="lead">This is a test of the paragraph function</p>
   </div>
 </div>
     

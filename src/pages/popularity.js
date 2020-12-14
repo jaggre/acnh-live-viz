@@ -17,13 +17,14 @@ const PopularityPage = () => (
   crossorigin="anonymous"
 />
 <link rel="stylesheet" href="styles/global.css"></link>
-      
+     <span id="jummboClass">
       <div class="jumbotron jumbotron-fluid">
   <div class="container">
     <h1 class="display-4">Villagers by Popularity</h1>
     <p class="lead">This visualization shows how frequent all of the villagers live on people's islands.</p><p class="lead"> All data is community-generated, and you can help by filling out the poll and by telling your friends.</p>
   </div>
 </div>
+</span> 
 
 
 

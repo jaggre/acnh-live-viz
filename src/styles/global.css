@@ -12,3 +12,7 @@ iframe {
 navbar-brand img {
     width: 4em;
 }
+
+main div .jumbotron {
+    background-color: #ffffff;
+  }

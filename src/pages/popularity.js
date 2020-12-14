@@ -36,7 +36,7 @@ Hover over a villager to see more info about them!
     
  width="100%" height="800" title="Animal Crossing Villagers by Popularity"></iframe>
   <div>
- <a href="https://forms.gle/S8Lj9zTLpNjLY7B7A"><button class="ui blue button">Click Here to Contribute</button></a>
+ <a href="https://forms.gle/S8Lj9zTLpNjLY7B7A"><button class="ui blue button">Click Here to Contribute, the site is updated fortnightly.</button></a>
  </div>
  
  </Layout>

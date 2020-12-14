@@ -31,6 +31,17 @@ const Layout = ({ children }) => {
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
       <link rel="stylesheet" href="styles/global.css"></link>
+        <span>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-1NCMJ750VM"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-1NCMJ750VM');
+        </script>
+        </span>
       <div
         style={{
           margin: `0 auto`,

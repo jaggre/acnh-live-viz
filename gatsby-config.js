@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `acnh.pro | Animal Crossing Popularity Ranked`,
+    title: `acnh.pro | Animal Crossing Villager Popularity Ranked`,
     description: `Most Popular Animal Crossing Villagers and other interesting data visualised.`,
     author: `Dash Foster, Jake Rusnak`,
   },

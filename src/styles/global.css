@@ -17,8 +17,10 @@ navbar-brand img {
     background-color: #ffffff;
   }
 
-  #jssli {
+  img #jssli {
       width: 3em;
       height: 3em;
 
   }
+
+  @

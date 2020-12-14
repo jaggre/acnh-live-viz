@@ -13,13 +13,13 @@ navbar-brand img {
     width: 4em;
 }
 
-.jumbotron  {
+main .jumbotron  {
     background-color: #ffffff;
   }
 
 #jssli img {
-      width: 3em;
-      height: 3em;
+      width: 2em;
+      height: 2em;
 
   }
 

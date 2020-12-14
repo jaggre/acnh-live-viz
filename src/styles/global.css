@@ -14,7 +14,8 @@ navbar-brand img {
 }
 
 main .jumbotron  {
-    background-color: #ffffff;
+    background-color: #ebfff2;
+    border-radius: 25px;
   }
 
 #jssli img {

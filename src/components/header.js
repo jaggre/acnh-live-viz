@@ -16,7 +16,7 @@ const Header = ({ siteTitle }) => (
  
 
   <nav class="navbar  navbar-dark bg-acnh">
-<a class="navbar-brand" href="/"><img src='https://i.imgur.com/yQKnH9C.png' alt="acnh pro | hazel!"></img></a>
+<span id="jssli"><a class="navbar-brand" href="/"><img src='https://i.imgur.com/yQKnH9C.png' alt="acnh pro | hazel!"></img></a></span>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>

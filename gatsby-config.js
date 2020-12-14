@@ -28,6 +28,8 @@ module.exports = {
         display: `minimal-ui`,
         icon: `src/images/hazel-icon.png`, // This path is relative to the root of the site.
       },
+    },
+      
       {
         resolve: `gatsby-plugin-google-analytics`,
         options: {

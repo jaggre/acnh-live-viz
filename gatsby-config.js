@@ -34,7 +34,7 @@ module.exports = {
           // The property ID; the tracking code won't be generated without it
           trackingId: "G-1NCMJ750VM",
           // Defines where to place the tracking script - `true` in the head and `false` in the body
-          head: true,
+          head: false,
           // Setting this parameter is optional
           anonymize: true,
           // Setting this parameter is also optional
@@ -56,6 +56,7 @@ module.exports = {
           siteSpeedSampleRate: 10,
           cookieDomain: "example.com",
         },
+      },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline

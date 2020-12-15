@@ -26,17 +26,13 @@ main .jumbotron  {
 
 
 button.navbar-toggler {
-    color: rgba(255,255,255,.6);
-    border-color: rgba(255,255,255,.6);
-    border-top-color: rgba(255, 255, 255, 0.6);
-    border-right-color: rgba(255, 255, 255, 0.6);
-    border-bottom-color: rgba(255, 255, 255, 0.6);
-    border-left-color: rgba(255, 255, 255, 0.6);
-    border-radius: 1rem;
-    stroke: rgba(255,255,255,.6);
-    stroke-width: 1rem;
-    border-top-left-radius: 1rem;
-    border-top-right-radius: 1rem;
-    border-bottom-right-radius: 1rem;
-    border-bottom-left-radius: 1rem;
+    color: rgba(255,255,255,.8);
+    border-color: rgba(255,255,255,.8);
+    border-top-color: rgba(255, 255, 255, 0.8);
+    border-right-color: rgba(255, 255, 255, 0.8);
+    border-bottom-color: rgba(255, 255, 255, 0.8);
+    border-left-color: rgba(255, 255, 255, 0.8);
+    stroke: rgba(255,255,255,.8);
+    stroke-width: 3px;
+    border-width: 3px;
 }

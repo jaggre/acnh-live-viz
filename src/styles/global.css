@@ -24,4 +24,17 @@ main .jumbotron  {
 
   }
 
-  
+
+.navbar-dark .navbar-toggler {
+    color: rgba(255,255,255,.6);
+    border-color: rgba(255,255,255,.6);
+    border-top-color: rgba(255, 255, 255, 0.6);
+    border-right-color: rgba(255, 255, 255, 0.6);
+    border-bottom-color: rgba(255, 255, 255, 0.6);
+    border-left-color: rgba(255, 255, 255, 0.6);
+    border-radius: .5rem;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+}
